@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 hi how are you
 
 second line in the first file
+=======
+hi how are you
+
+>>>>>>> 6ccdf88122fe208b68a1f9de063e0620c7dec05c
